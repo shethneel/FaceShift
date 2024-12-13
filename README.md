@@ -38,7 +38,7 @@ Once all triangles are transferred, the face is blended seamlessly onto the targ
 
 # How to Run
 1. Clone the repository and navigate to the project folder.
-2. Download the `shape_predictor_68_face_landmarks.dat` model and place it in the project directory.
+2. Download the [shape_predictor_68_face_landmarks.dat](https://drive.google.com/file/d/1Fh8-EaXcAFHIKGV8acppiabwHQHApQlF/view?usp=sharing) model and place it in the project directory.
 3. Run the script:
 
     ```bash
